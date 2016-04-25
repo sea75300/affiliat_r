@@ -1,0 +1,43 @@
+# Stefan <sea75300@yahoo.de>, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-06-22 19:26+0200\n"
+"PO-Revision-Date: 2014-08-06 21:45+0200\n"
+"Last-Translator: Stefan <sea75300@yahoo.de>\n"
+"Language-Team: Stefan Seehafer aka imagine\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.7.1\n"
+
+msgid "Configuration"
+msgstr "Konfiguration"
+
+msgid "Integration Assistent"
+msgstr "Integration"
+
+msgid "Path from root"
+msgstr "Pfad vom root-Verzeichnis"
+
+msgid "The given path was not found!"
+msgstr "Der angegebene Pfad wurde nicht gefunden!"
+
+msgid "The new path has not been found and was not saved!"
+msgstr "Der neue angegebene Pfad wurde nicht gefunden und nicht gespeichert!"
+
+msgid "Path has been found!"
+msgstr "Der angegebene Pfad wurde gefunden!"
+
+msgid "Unable to save configuration changes. The plugin folder is not writable."
+msgstr ""
+"Änderungen an der Konfiguration können nicht gespeichert werden. Das Plugin-"
+"Verzeichnis ist nicht beschreibbar."
+
+msgid "Copy this text onto the page or post you want to display affiliates."
+msgstr ""
+"Kopiere diesen Text in die Seite oder den Post, wo du die Affiliates "
+"anzeigen lassen willst."
